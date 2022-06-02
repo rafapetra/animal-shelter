@@ -1,0 +1,29 @@
+body {
+  margin:auto;
+  width: 50%;
+  height: auto;
+}
+
+.top {
+  text-align:center;
+}
+
+.column img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+}
+
+.column {
+  height: 300px;
+  width: 400px;
+  background-color: orange;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.column h2 {
+  text-align: center;
+}
